@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No:212225040169
+# Name:kanishka s
+# Date:28/10/26
 
 
 # AIM:
@@ -48,6 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
+<img width="512" height="383" alt="image" src="https://github.com/user-attachments/assets/e83a3767-13d2-4083-9c4b-3099b330c8e9" />
 
 
 
@@ -68,6 +69,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="425" height="330" alt="image" src="https://github.com/user-attachments/assets/5da59bfc-dcd1-425c-9f51-f4fff807cf2b" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -78,6 +80,7 @@ Communication diagrams offer benefits similar to sequence diagrams, but they wil
 
 
 
+<img width="985" height="632" alt="image" src="https://github.com/user-attachments/assets/ff4cbdea-4369-439a-81bb-1312d75200fb" />
 
 # PACKAGE DIAGRAM:
 
@@ -87,6 +90,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
+<img width="994" height="554" alt="image" src="https://github.com/user-attachments/assets/1fc4792a-543f-43d6-ade6-568f2bf7e16c" />
 
 
 
@@ -105,6 +109,7 @@ Activity diagrams present a number of benefits to users. Consider creating an ac
 Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
+<img width="341" height="518" alt="image" src="https://github.com/user-attachments/assets/b53e4ef9-d1ed-45d3-867a-617bb723d373" />
 
 
 
@@ -116,6 +121,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="892" height="675" alt="image" src="https://github.com/user-attachments/assets/82aafa0c-05ce-423a-9a36-3b13c9850f00" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
